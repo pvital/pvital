@@ -4,7 +4,7 @@
 **pvital/pvital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in system to help my wife's company
 - 🌱 I’m currently learning golang
 - 🤔 I’m looking to collaborate on Python Open Source projects
 - 📫 How to reach me: www.vital.eng.br
