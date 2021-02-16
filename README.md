@@ -9,7 +9,10 @@
 - 🤔 I’m looking to collaborate on Python Open Source projects
 - 📫 How to reach me: www.vital.eng.br
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I got some certification:
+  * Certified ScrumMaster® (CSM®)
+  * Certified Ethical Hacker® (CEH®)
+  * AWS Certified Cloud Practitioner® 
 
 ### Where to find me
 [![Read my Blog](https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat&logo=wordpress&logoColor=white)](https://pvital.wordpress.com)
