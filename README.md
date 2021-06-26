@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working in system to help my wife's company
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang and German (Deutsch)
 - 🤔 I’m looking to collaborate on Python Open Source projects
 - 📫 How to reach me: www.vital.eng.br
 - 😄 Pronouns: he/his/him
