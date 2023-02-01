@@ -4,9 +4,9 @@
 **pvital/pvital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Senior Software Engineer @ [Perseus Cyber Security][]
+- Senior Software Engineer @ [IBM][] [Instana][]
 - Passionate [Pythonista][] and [Gopher][] aspirant, developing on [Linux][] since 2000
-- Former [IBM][]er/LTCer and ex [Amelia][]'s colleague
+- Former IBM LTCer, ex [Amelia][]'s colleague and former [Perseus Cyber Security][] engineer
 - You can reach me via [my website][]
 - Pronouns: he/his/him
 - Fun facts:
@@ -23,10 +23,11 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/pvital/book-session.svg)](https://www.codementor.io/@pvital?refer=badge)
 
 
-[my website]: https://www.vital.eng.br "vital.eng.br"
+[my website]: https://pvital.dev "pvital.dev"
 [Perseus Cyber Security]: https://www.perseus.de/en "Perseus Cyber Security"
 [IBM]: https://www.ibm.com "IBM"
 [Amelia]: https://amelia.ai "Amelia"
 [Pythonista]: https://www.python.org/ "Python"
 [Gopher]: https://go.dev/ "Golang"
 [Linux]: https://www.debian.org/ "Debian"
+[Instana]: https://www.instana.com/ "Instana"
