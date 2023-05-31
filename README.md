@@ -19,7 +19,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/prpvital)
 [![Hire me!](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvital)
 [![Copy & Paste my code!](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white)](https://github.com/pvital)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109310147084896498?domain=https%3A%2F%2Ffosstodon.org&style=social)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109310147084896498?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@pvital)
 
 [my website]: https://pvital.dev "pvital.dev"
 [Perseus Cyber Security]: https://www.perseus.de/en "Perseus Cyber Security"
